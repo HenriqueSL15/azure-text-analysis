@@ -1,0 +1,5 @@
+1. "Adorei o novo serviço de tradução da Azure! A precisão em textos técnicos é incrível."
+2. "A análise de sentimentos da Microsoft Azure identificou corretamente a frustração dos usuários com o delay na resposta."
+3. "O reconhecimento de entidades da Azure detectou 'Paris', '2023' e 'IA Generativa' como termos-chave no relatório."
+4. "Como posso integrar a API de síntese de fala da Azure ao meu aplicativo em Python?"
+5. "A Azure Key Vault é essencial para proteger chaves de criptografia em ambientes cloud."
